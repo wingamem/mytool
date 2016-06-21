@@ -16,8 +16,8 @@
         <!-- Google Web Font Embed -->
         <link href='http://fonts.googleapis.com/css?family=Raleway:400,600,500,300,700' rel='stylesheet' type='text/css'>
         
-        <link rel="stylesheet" href="../css/bootstrap.min.css">
-        <link rel="stylesheet" href="../css/font-awesome.min.css">
+        <link href="//cdn.bootcss.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+		<link href="//cdn.bootcss.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
         <link rel="stylesheet" href="../css/templatemo_main.css">
 		<style type="text/css">
 <!--
@@ -91,9 +91,9 @@ body,td,th {
             <div id="status">&nbsp;正在加载...</div>
         </div>-->
         
-        <script src="../js/jquery.min.js"></script>
-        <script src="../js/jquery-ui.min.js"></script>
-        <script src="../js/jquery.backstretch.min.js"></script>
+        <script src="//cdn.bootcss.com/jquery/1.10.2/jquery.min.js"></script>
+        <script src="//cdn.bootcss.com/jqueryui/1.11.0/jquery-ui.min.js"></script>
+        <script src="//cdn.bootcss.com/jquery-backstretch/2.0.4/jquery.backstretch.min.js"></script>
         <script src="../js/templatemo_script.js"></script>
 
     </body> 
